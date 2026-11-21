@@ -97,9 +97,6 @@
       <aside class="sidebar">
         <div class="wordmark">Clinic Ops</div>
         <div class="nav nav-active">Inbox Agent</div>
-        <div class="nav">Patients</div>
-        <div class="nav">Schedule</div>
-        <div class="nav">Settings</div>
       </aside>`;
   }
 
